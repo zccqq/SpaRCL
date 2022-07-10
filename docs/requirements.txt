@@ -1,0 +1,7 @@
+sparcl
+ipython
+nbsphinx
+pydata_sphinx_theme
+scanpydoc
+sphinx_autodoc_typehints
+sphinx_copybutton
